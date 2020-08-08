@@ -13,8 +13,9 @@ info.onLifeZero(function () {
     game.splash("Game Over! Your score is:", "" + info.score())
     game.reset()
 })
-let mySprite2: Sprite = null
 let mySprite: Sprite = null
+let mySprite2: Sprite = null
+mySprite2.setPosition(randint(0, 500), randint(0, 500))
 info.setScore(0)
 mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
