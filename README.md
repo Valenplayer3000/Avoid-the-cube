@@ -1,12 +1,15 @@
 ## Kill the cube 
 **Beta ver 6.1**
->Fixed the error (sim error "null")
+>Fixed the error (sim error "null") 
+
 >Removed the countdown
+
 >Fixed the emeny spawning system
 
 
 
 
+## To Play this game...
 > Open this page at [https://valenplayer3000.github.io/kill-the-cube-beta-ver-phrase-6/](https://valenplayer3000.github.io/kill-the-cube-beta-ver-phrase-6/)
 
 ## Use as Extension
