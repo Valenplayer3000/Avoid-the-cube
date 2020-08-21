@@ -1,7 +1,8 @@
 {
     "name": "kill-the-cube-beta-ver-phrase-6",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         ".vscode/settings.json",
