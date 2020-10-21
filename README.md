@@ -1,10 +1,7 @@
 ## Kill the cube 
-**Beta ver 6.1**
->Fixed the error (sim error "null") 
+**Final Beta ver 9.1**
 
->Removed the countdown
-
->Fixed the emeny spawning system
+>Added new two enemy
 
 
 
