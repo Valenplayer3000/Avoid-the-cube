@@ -7,7 +7,7 @@
 
 
 ## To Play this game...
-> Open this page at [https://valenplayer3000.github.io/kill-the-cube-beta-ver-phrase-6/](https://valenplayer3000.github.io/kill-the-cube-beta-ver-phrase-6/)
+> Open this page at [https://github.com/Valenplayer3000/kill-the-cube-final-beta-ver-9.1](https://valenplayer3000.github.io/kill-the-cube-beta-ver-phrase-6/)
 
 ## Use as Extension
 
