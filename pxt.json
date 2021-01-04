@@ -1,5 +1,5 @@
 {
-    "name": "Avoid-the-cube-final-beta",
+    "name": "Avoid-the-cube-resales",
     "dependencies": {
         "device": "*",
         "animation": "*"
@@ -16,7 +16,7 @@
         "tsconfig.json"
     ],
     "targetVersions": {
-        "target": "1.2.10",
+        "target": "1.2.16",
         "targetId": "arcade"
     },
     "supportedTargets": [
